@@ -1,0 +1,5 @@
+{
+	"client_id" : "5e4dbcb436b0b5d04cf5ef47793f6c35c093a71d",
+	"client_secret" : "41ad92cb0c34b19d114f2af93fb3005c3f37acc8",
+	"access_token" : "https://api.vimeo.com/oauth/access_token"
+}

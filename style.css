@@ -1,0 +1,122 @@
+
+.header{
+color: #D2691E;
+text-align:center;
+font-family:Courier, monospace, Arial, Verdana, sans-serif;
+font-size:25px;
+font-weight:bold;
+}
+.vsearch{
+border: 4px double black;
+margin-top: 5px;
+background: #E9967A;
+margin-left: 5%;
+margin-right: 5%;
+height:55px;
+padding-top: 10px;
+padding-left: 50px;
+}
+div.vsearch > p{
+color: #FFFFFF;
+font-weight:bold;
+}
+#vl{
+border-bottom: 1px double black;
+background: #BC8F8F;
+margin-left: 5%;
+width:50%;
+float: left;
+overflow:auto;
+height:600px;
+}
+
+
+#playlistAdd0{
+margin-left: 40%;
+height:30px;
+
+}
+#playlistAdd1{
+margin-left: 40%;
+height:30px;
+
+}
+#playlistAdd2{
+margin-left: 40%;
+height:30px;
+
+}
+#playlistAdd3{
+margin-left: 40%;
+height:30px;
+
+}
+#playlistAdd4{
+margin-left: 40%;
+height:30px;
+
+}
+#pl{
+border-bottom: 1px double black;
+background: #BC8F8F;
+width:37%;
+margin-right: 5%;
+padding-left:3%;
+float: right;
+height:600px;
+overflow:auto;
+}
+
+.n_v{
+text-align:center;
+}
+
+#nextPageButton{
+display:block;
+float:right;
+height:31px;
+margin-right:1%;
+margin-bottom:1%;
+}
+#prevPageButton{
+display:block;
+float:left;
+margin-left:1%;
+margin-bottom:1%;
+height:31px;
+}
+
+.buttonsave{
+margin-top:3%;
+margin-left: 25%;
+margin-bottom: 1%;
+width:200px;
+height:50px;
+display:block;
+}
+
+.block1{
+width:200px;
+float: left;
+}
+
+.block2{
+width:100px;
+float: right;
+}
+
+.block_all{
+width:450px;
+
+float:left;
+}
+button{
+background-color:#E9967A;
+font-size:15px;
+color:#FFFFFF;
+text-align:center;
+}
+
+.video_style{
+margin-top:2%;
+}
